@@ -10,19 +10,19 @@ practical problems, thus, materializing fundamentals into systems research.
 </style>
 <table>
   <tbody>
-    <tr>
-      <td align="center"><h2>Work Experience</h2></td>
-      <td align="center" colspan="2"><h2>Education</h2></td>
+    <tr style="text-align: center">
+      <td><h2>Work Experience</h2></td>
+      <td colspan="2"><h2>Education</h2></td>
     </tr> 
-    <tr>
-      <td align="center"><img src="huawei2.jpeg" width=120></td>
-      <td align="center"><img src="iitb.png" width=120></td>
-      <td align="center"><img src="shibpur.jpeg" width=120></td>
+    <tr style="text-align: center">
+      <td><img src="huawei2.jpeg" width=120></td>
+      <td><img src="iitb.png" width=120></td>
+      <td><img src="shibpur.jpeg" width=120></td>
     </tr>
-      <tr style="width:200px">
-        <td align="center"><pre>System Architect<br>/Research Scientist:<br> 2017 (Mar) - 2023 (Apr)</pre></td>
-      <td align="center"><pre>M.Tech.+Ph.D.<br> (Dual Degree) (CS):<br> 2011 - 2016 (Dec)</pre></td>
-      <td align="center"><pre>B.E. (CS): 2007 - 2011</pre></td>
+    <tr style="width:200px">
+      <td style="text-align: center"><pre>System Architect<br>/Research Scientist:<br> 2017 (Mar) - 2023 (Apr)</pre></td>
+      <td style="text-align: center"><pre>M.Tech.+Ph.D.<br> (Dual Degree) (CS):<br> 2011 - 2016 (Dec)</pre></td>
+      <td style="text-align: center"><pre>B.E. (CS): 2007 - 2011</pre></td>
     </tr>
   </tbody>
 </table>
