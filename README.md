@@ -13,8 +13,13 @@ practical problems, thus, materializing fundamentals into systems research.
   <tbody>
     <tr>
       <td><h2>Work Experience</h2></td>
-      <td><h2>M.Tech. + Ph.D.</h2></td>
-      <td><h2>B.E.</h2></td>
+      <td colspan="2"><h2>Education</h2></td>
+    </tr>
+    
+      <tr>
+      <td>System Architect/Research Scientist</td>
+      <td>M.Tech.+Ph.D. (Dual Degree)</td>
+      <td>B.E.</td>
     </tr>
     
     <tr>
@@ -22,11 +27,7 @@ practical problems, thus, materializing fundamentals into systems research.
       <td><img src="iitb.png" width=140></td>
       <td><img src="shibpur.jpeg" width=130></td>
     </tr>
-    <tr>
-      <td>Huawei Technologies India Pvt. Ltd.</td>
-      <td>IIT Bombay</td>
-      <td>IIEST Shibpur</td>
-    </tr>
+
     
     <tr>
       <td>2017 (March) - 2023 (April)</td>
