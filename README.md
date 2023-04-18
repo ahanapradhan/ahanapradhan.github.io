@@ -27,8 +27,8 @@ practical problems, thus, materializing fundamentals into systems research.
     </tr>
       <tr>
       <td align="center">System Architect/Research Scientist</td>
-      <td align="center">M.Tech.+Ph.D. (Dual Degree)</td>
-      <td align="center">B.E.</td>
+      <td align="center">M.Tech.+Ph.D. (Dual Degree) (CS)</td>
+      <td align="center">B.E. (CS)</td>
     </tr>
     <tr>
       <td align="center">2017 (March) - 2023 (April)</td>
