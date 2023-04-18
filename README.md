@@ -20,9 +20,9 @@ practical problems, thus, materializing fundamentals into systems research.
       <td align="center"><img src="shibpur.jpeg" width=120></td>
     </tr>
     <tr style="width:180px">
-      <td align="center"><pre>System Architect<br>/Research Scientist:<br> 2017 (Mar) - 2023 (Apr)</pre></td>
-      <td align="center"><pre>M.Tech.+Ph.D.<br> (Dual Degree) (CS):<br> 2011 - 2016 (Dec)</pre></td>
-      <td align="center"><pre>B.E. (CS):<br> 2007 - 2011</pre></td>
+      <td align="center">System Architect<br>/Research Scientist:<br> 2017 (Mar) - 2023 (Apr)</td>
+      <td align="center">M.Tech.+Ph.D.<br> (Dual Degree) (CS):<br> 2011 - 2016 (Dec)</td>
+      <td align="center">B.E. (CS):<br> 2007 - 2011</td>
     </tr>
   </tbody>
 </table>
