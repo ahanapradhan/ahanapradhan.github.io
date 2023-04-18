@@ -15,9 +15,9 @@ practical problems, thus, materializing fundamentals into systems research.
       <td align="center" colspan="2"><h2>Education</h2></td>
     </tr> 
     <tr>
-      <td align="center"><img src="huawei2.jpeg" width=100></td>
-      <td align="center"><img src="iitb.png" width=100></td>
-      <td align="center"><img src="shibpur.jpeg" width=100></td>
+      <td align="center"><img src="huawei2.jpeg" width=90></td>
+      <td align="center"><img src="iitb.png" width=90></td>
+      <td align="center"><img src="shibpur.jpeg" width=90></td>
     </tr>
     <tr style="width:180px">
       <td align="center">System Architect<br>/Research Scientist:<br> 2017 (Mar) - 2023 (Apr)</td>
