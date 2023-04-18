@@ -29,6 +29,4 @@ practical problems, thus, materializing fundamentals into systems research.
 
 ## Other Profiles
 
-[DBLP](https://dblp.org/pid/145/6794.html)
-[Google Scholar](https://scholar.google.com/citations?user=dNxs-m4AAAAJ&hl=en)
-[LinkedIn](https://www.linkedin.com/in/ahana-pradhan-ba430861/)
+[DBLP](https://dblp.org/pid/145/6794.html) | [Google Scholar](https://scholar.google.com/citations?user=dNxs-m4AAAAJ&hl=en)|[LinkedIn](https://www.linkedin.com/in/ahana-pradhan-ba430861/)
