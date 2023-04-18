@@ -11,13 +11,13 @@ practical problems, thus, materializing fundamentals into systems research.
 <table>
   <tbody>
     <tr>
-      <td align="center"><h2>Work Experience</h2></td>
+      <td align="center"><h2>Experience</h2></td>
       <td align="center" colspan="2"><h2>Education</h2></td>
     </tr> 
     <tr>
-      <td align="center"><img src="huawei2.jpeg" width=120></td>
-      <td align="center"><img src="iitb.png" width=120></td>
-      <td align="center"><img src="shibpur.jpeg" width=120></td>
+      <td align="center"><img src="huawei2.jpeg" width=100></td>
+      <td align="center"><img src="iitb.png" width=100></td>
+      <td align="center"><img src="shibpur.jpeg" width=100></td>
     </tr>
     <tr style="width:180px">
       <td align="center">System Architect<br>/Research Scientist:<br> 2017 (Mar) - 2023 (Apr)</td>
