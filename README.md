@@ -17,23 +17,14 @@ practical problems, thus, materializing fundamentals into systems research.
       <td align="center" colspan="2"><h2>Education</h2></td>
     </tr> 
     <tr>
-      <td align="center"><hr /></td>
-      <td align="center" colspan="2"><hr /></td>
-    </tr> 
-    <tr>
       <td align="center"><img src="huawei2.jpeg" width=120></td>
       <td align="center"><img src="iitb.png" width=120></td>
       <td align="center"><img src="shibpur.jpeg" width=120></td>
     </tr>
       <tr>
-      <td align="center">System Architect/Research Scientist</td>
-      <td align="center">M.Tech.+Ph.D. (Dual Degree) (CS)</td>
-      <td align="center">B.E. (CS)</td>
-    </tr>
-    <tr>
-      <td align="center">2017 (March) - 2023 (April)</td>
-      <td align="center">2011 (July) - 2016 (Dec)</td>
-      <td align="center">2007 (July) - 2011 (June)</td>
+      <td align="center">System Architect/Research Scientist: 2017 (Mar) - 2023 (Apr)</td>
+      <td align="center">M.Tech.+Ph.D. (Dual Degree) (CS): 2011 - 2016 (Dec)</td>
+      <td align="center">B.E. (CS): 2007 - 2011</td>
     </tr>
   </tbody>
 </table>
