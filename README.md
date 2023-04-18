@@ -6,8 +6,8 @@ practical problems, thus, materializing fundamentals into systems research.
 ## Education
 
 M.Tech. + Ph.D. (CS, IIT Bombay)  |  B.E. (CS, IIEST Shibpur)
-:------------------------------:    :----------------------------:
-<img src="iitb.png" width=200>       <img src="shibpur.jpeg" width=200>  
+:------------------------------:  |  :----------------------------:
+<img src="iitb.png" width=200>    |   <img src="shibpur.jpeg" width=200>  
 2011 -- 2016 (Thesis Submitted),  |   2007 -- 2011
 2018 (Thesis Defended)            |
 
