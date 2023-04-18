@@ -20,12 +20,26 @@ practical problems, thus, materializing fundamentals into systems research.
 <table>
   <tbody>
     <tr>
-      <td>#Column One</td>
-      <td>#Column Two</td>
+      <td><h2>Work Experience</h2></td>
+      <td><h2>M.Tech. + Ph.D.</h2></td>
+      <td><h2>B.E.</h2></td>
+    </tr>
+    
+    <tr>
+      <td><img src="huawei2.jpeg" width=130></td>
+      <td><img src="shibpur.jpeg" width=130></td>
+      <td><img src="iitb.png" width=140></td>
     </tr>
     <tr>
-      <td>Content of column one</td>
-      <td>Content of column two</td>
+      <td>Huawei Technologies India Pvt. Ltd.</td>
+      <td>IIT Bombay</td>
+      <td>IIEST Shibpur</td>
+    </tr>
+    
+    <tr>
+      <td>2017 (March) - 2023 (April)</td>
+      <td>2011 (July) - 2016 (Dec)</td>
+      <td>2007 (July) - 2011 (June)</td>
     </tr>
   </tbody>
 </table>
