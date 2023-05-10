@@ -34,3 +34,7 @@ Please visit
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/ahana-pradhan-ba430861/)
+
+## Extracurricular
+I spent a good amount of time writing during the pandemic. If you are interested in Bengali poems, take a look at my work:
+[Storymirror](https://storymirror.com/profile/sp68tvi9/ahana-pradhan/poems)
