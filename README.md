@@ -27,3 +27,5 @@ practical problems, thus, materializing fundamentals into systems research.
   </tbody>
 </table>
 
+<br><br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ahanapradhan)](https://git.io/streak-stats)
