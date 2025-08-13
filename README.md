@@ -1,5 +1,8 @@
 ## Profile Summary
-Postdoctoral researcher at the Database Systems Lab, CDS, IIsc.
+Assistant Professor, CSE, International Institute of Information Technology Bangalore.
+Currently teaching OOP -- C++ Programming course (Fall Semester, 2025).
+
+Was a Postdoctoral researcher at the Database Systems Lab, CDS, IIsc.
 
 Ph.D. from IIT Bombay with formal models (Petri net) in focus. Equally skilled in hands-on coding from six years of extensive industry experience on building various distributed systems in data-management domain. My research interests broadly lie in the area of query processing and optimization aspects of data management systems. I am also experienced and equally interested in concurrent programming models, model driven engineering, architectural refactoring, and formulating distributed algorithms. Further, I always look forward to work out theoretically elegant solutions for
 practical problems, thus, materializing fundamentals into systems research.
