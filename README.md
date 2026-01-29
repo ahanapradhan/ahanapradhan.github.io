@@ -1,6 +1,9 @@
 ## Profile Summary
 Assistant Professor, CSE, International Institute of Information Technology Bangalore.
-Currently teaching OOP -- C++ Programming course (Fall Semester, 2025).
+
+Teaching: 
+Introduction to Database Management Systems (Spring Semester, 2026).
+OOP -- C++ Programming course (Fall Semester, 2025).
 
 Was a Postdoctoral researcher at the Database Systems Lab, CDS, IIsc.
 
