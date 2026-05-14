@@ -20,6 +20,19 @@ My UG degree in CS is from
 
 Broadly, equally interested in theory and system-building work.
 
+<p class="view"><strong>Teaching</strong></p>
+<ul>
+  <li>EGC 211P: Introduction to Object Oriented Design Principles (C++) — Autumn 2025–26</li>
+  <li>DAS 101: Introduction to Database Systems — Spring 2025–26</li>
+  <li>CS 705: Advanced Topics in Databases — Autumn 2026–27</li>
+  <li>
+    Co-instructor:
+    <a href="https://dsl.cds.iisc.ac.in/~course/TIDS/TIDS.html" target="_blank" rel="noopener noreferrer">
+      Topics in Database Systems (E0 361)
+    </a> (Jan 2025)
+  </li>
+</ul>
+
 <style>
   table td {
     border: none !important;
