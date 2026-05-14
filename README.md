@@ -1,14 +1,14 @@
 ## Profile Summary
 Assistant Professor, CSE, International Institute of Information Technology Bangalore.
 
-Teaching: 
-Introduction to Database Management Systems (Spring Semester, 2026).
-OOP -- C++ Programming course (Fall Semester, 2025).
+Currently teaching databases to undergrad students.
 
-Was a Postdoctoral researcher at the Database Systems Lab, CDS, IIsc.
+Got industrial exposure to the database domain while in Huawei India, which motivated me to pursue postdoctoral research in the domain at CDS, IISc, with [Prof. Jayant Haritsa](https://dsl.cds.iisc.ac.in/~haritsa/).
 
-Ph.D. from IIT Bombay with formal models (Petri net) in focus. Equally skilled in hands-on coding from six years of extensive industry experience on building various distributed systems in data-management domain. My research interests broadly lie in the area of query processing and optimization aspects of data management systems. I am also experienced and equally interested in concurrent programming models, model driven engineering, architectural refactoring, and formulating distributed algorithms. Further, I always look forward to work out theoretically elegant solutions for
-practical problems, thus, materializing fundamentals into systems research.
+Prior to that, completed M.Tech.+Ph.D. dual degree from IIT Bombay, in the domain of workflow processing in terms of Petri nets, under the guidance of [Prof. R. K. Joshi](https://www.cse.iitb.ac.in/~rkj/). 
+My UG degree in CS is from BESU, Shibpur.
+
+Broadly, equally interested in theory and system-building work.
 
 <style>
   table td {
