@@ -33,6 +33,24 @@ Broadly, equally interested in theory and system-building work.
   </li>
 </ul>
 
+<p class="view"><strong>Recent publications</strong></p>
+<ul>
+  <li>
+    <strong><a href="https://dl.acm.org/doi/10.1145/3799830.3799838" target="_blank" rel="noopener noreferrer"> Defog</a></strong> —  
+    <a href="https://ikdd.acm.org/cods-2025/" target="_blank" rel="noopener noreferrer">
+      CODS 2025
+    </a>
+  </li>
+
+  <li>
+    <strong><a href="https://arxiv.org/abs/2604.15861" target="_blank" rel="noopener noreferrer">Compliance in Databases (arxiv version)</a></strong> — 
+    <a href="https://sequredb.github.io/" target="_blank" rel="noopener noreferrer">
+      SeQureDB @ SIGMOD 2026 
+    </a>
+  </li>
+</ul>
+
+
 <p class="view"><strong>Services</strong></p>
 <ul>
   <li>
@@ -49,22 +67,6 @@ Broadly, equally interested in theory and system-building work.
   </li>
 </ul>
 
-<p class="view"><strong>Recent publications</strong></p>
-<ul>
-  <li>
-    <strong><a href="https://dl.acm.org/doi/10.1145/3799830.3799838" target="_blank" rel="noopener noreferrer"> Defog</a></strong> — CODS 2025<br>
-    <a href="https://ikdd.acm.org/cods-2025/" target="_blank" rel="noopener noreferrer">
-      Conference page
-    </a>
-  </li>
-
-  <li>
-    <strong><a href="https://arxiv.org/abs/2604.15861" target="_blank" rel="noopener noreferrer">Compliance in Databases (arxiv version)</a></strong> — SeQureDB @ SIGMOD 2026<br>
-    <a href="https://sequredb.github.io/" target="_blank" rel="noopener noreferrer">
-      Workshop page
-    </a>
-  </li>
-</ul>
 
 <p class="view"><strong>Honors & Awards</strong></p>
 <ul>
