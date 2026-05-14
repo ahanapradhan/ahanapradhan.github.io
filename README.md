@@ -22,11 +22,13 @@ practical problems, thus, materializing fundamentals into systems research.
       <td align="center" colspan="2"><h2>Education</h2></td>
     </tr> 
     <tr>
+      <td align="center"><img src="OIP.png" width=90></td>
       <td align="center"><img src="huawei2.jpeg" width=90></td>
       <td align="center"><img src="iitb.png" width=90></td>
       <td align="center"><img src="shibpur.jpeg" width=90></td>
     </tr>
     <tr style="width:180px">
+      <td align="center">Postdoctoral Research Associate/Fellow:<br> 2023 (May) - 2025 (June)</td>
       <td align="center">System Architect<br>/Research Scientist:<br> 2017 (Mar) - 2023 (Apr)</td>
       <td align="center">M.Tech.+Ph.D.<br> (Dual Degree) (CS):<br> 2011 - 2016 (Dec)</td>
       <td align="center">B.E. (CS):<br> 2007 - 2011</td>
