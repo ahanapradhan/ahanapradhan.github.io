@@ -1,6 +1,5 @@
 ## Profile Summary
-Assistant Professor, CSE, 
-<a href="https://www.iiitb.ac.in/" target="_blank"  rel="noopener noreferrer">International Institute of Information Technology Bangalore</a>.
+
 
 Currently teaching databases to undergrad students.
 
