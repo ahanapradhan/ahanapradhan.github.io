@@ -22,12 +22,12 @@ Broadly, equally interested in theory and system-building work.
       <td align="center" colspan="2"><h2>Education</h2></td>
     </tr> 
     <tr>
-      <td align="center"><img src="OIP.jpg" width=90></td>
-      <td align="center"><img src="huawei2.jpeg" width=90></td>
-      <td align="center"><img src="iitb.png" width=90></td>
-      <td align="center"><img src="shibpur.jpeg" width=90></td>
+      <td align="center"><img src="OIP.jpg" width=50></td>
+      <td align="center"><img src="huawei2.jpeg" width=45></td>
+      <td align="center"><img src="iitb.png" width=45></td>
+      <td align="center"><img src="shibpur.jpeg" width=45></td>
     </tr>
-    <tr style="width:240px">
+    <tr style="width:180px">
       <td align="center">Postdoctoral<br>Research Associate/Fellow:<br> 2023 (May) - 2025 (June)</td>
       <td align="center">System Architect<br>/Research Scientist:<br> 2017 (Mar) - 2023 (Apr)</td>
       <td align="center">M.Tech.+Ph.D.<br> (Dual Degree) (CS):<br> 2011 - 2016 (Dec)</td>
