@@ -27,7 +27,7 @@ Broadly, equally interested in theory and system-building work.
       <td align="center"><img src="iitb.png" width=90></td>
       <td align="center"><img src="shibpur.jpeg" width=90></td>
     </tr>
-    <tr style="width:180px">
+    <tr style="width:240px">
       <td align="center">Postdoctoral<br>Research Associate/Fellow:<br> 2023 (May) - 2025 (June)</td>
       <td align="center">System Architect<br>/Research Scientist:<br> 2017 (Mar) - 2023 (Apr)</td>
       <td align="center">M.Tech.+Ph.D.<br> (Dual Degree) (CS):<br> 2011 - 2016 (Dec)</td>
