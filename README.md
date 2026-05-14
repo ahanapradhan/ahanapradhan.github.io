@@ -33,6 +33,48 @@ Broadly, equally interested in theory and system-building work.
   </li>
 </ul>
 
+<p class="view"><strong>Services</strong></p>
+<ul>
+  <li>
+    Publicity Chair,
+    <a href="https://2026.sigmod.org/" target="_blank" rel="noopener noreferrer">
+      ACM SIGMOD/PODS 2026
+    </a>
+  </li>
+  <li>
+    Reviewer,
+    <a href="https://accsindia.org/adcom2025/" target="_blank" rel="noopener noreferrer">
+      ADCOM 2025 (ACCS)
+    </a>
+  </li>
+</ul>
+
+<p class="view"><strong>Recent publications</strong></p>
+<ul>
+  <li>
+    <strong><a href="https://dl.acm.org/doi/10.1145/3799830.3799838" target="_blank" rel="noopener noreferrer"> Defog</a></strong> — CODS 2025<br>
+    <a href="https://ikdd.acm.org/cods-2025/" target="_blank" rel="noopener noreferrer">
+      Conference page
+    </a>
+  </li>
+
+  <li>
+    <strong><a href="https://arxiv.org/abs/2604.15861" target="_blank" rel="noopener noreferrer">Compliance in Databases (arxiv version)</a></strong> — SeQureDB @ SIGMOD 2026<br>
+    <a href="https://sequredb.github.io/" target="_blank" rel="noopener noreferrer">
+      Workshop page
+    </a>
+  </li>
+</ul>
+
+<p class="view"><strong>Honors & Awards</strong></p>
+<ul>
+  <li>Invited Poster — India AI Impact Summit 2026</li>
+  <li>Best Paper Runner-Up — CODS 2025</li>
+  <li>Huawei Future Star Award — 2023</li>
+  <li>IBM PhD Fellowship 2015-16</li>
+  <li>State Rank 2 in WB Secondary Board Examination (Madhyamik), 2005</li>
+</ul>
+
 <style>
   table td {
     border: none !important;
